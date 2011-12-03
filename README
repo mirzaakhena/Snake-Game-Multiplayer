@@ -8,6 +8,7 @@ First is for the server and the second is for the client.
 you must run the server first, and then run the client. 
 After that you have to input the ip of server in client. 
 It can hold 4 players. 
+you can find the GUI for server and client in src/com/mirza/snakemultiplayer/gui/login 
 
 The game is not finish yet. 
 but it can show you how to use socket connection using UDP
