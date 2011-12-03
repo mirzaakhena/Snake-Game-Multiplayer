@@ -1,12 +1,16 @@
 Hello Everyone..
 
-this is my snake game multiplayer. This project has not been completed. 
+this is my snake game multiplayer. 
 
-i am using eclipse for the IDE, the "application" has two main.
-first is for the server and the second is for the client.
+this "application" has two main. 
+First is for the server and the second is for the client.
 
-you must run the server first, and then run the client.
-after that you have to input the ip of server in client
+you must run the server first, and then run the client. 
+After that you have to input the ip of server in client. 
+It can hold 4 players. 
+
+The game is not finish yet. 
+but it can show you how to use socket connection using UDP
 
 if you have any question dont hesitate to email me at
 
